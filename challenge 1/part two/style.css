@@ -99,7 +99,7 @@ tr:nth-child(even){
     color: #302929;
 }
 
-.footer p{
+footer p{
     align-items: baseline;
     background-color: #141414;
     padding: 100px;
