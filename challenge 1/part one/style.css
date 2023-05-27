@@ -34,6 +34,7 @@ p,a,li,td{
     background-color: #0d0d0d;
     color: #f7f7f7;
 }
+
 /* for heading*/
 .heading{
     width: 100%;
@@ -47,12 +48,14 @@ p,a,li,td{
 .heading h1{
     margin-left: 5%;
 }
+
 /* for about section */
 .about h2{
     margin-left: 20px;
     font-size: 20px;
     color: #302929;
 }
+
 /* for image in about section */
 .img img{
     width: 20%;
@@ -64,11 +67,13 @@ p,a,li,td{
 .about p{
     margin-left: 30px;
 }
+
 /* for favorite section */
 .favorite h3{
     margin-left: 20px;
     font-size: 20px;
 }
+
 /* for footer section */
 footer p{
     display: flex;
